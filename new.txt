@@ -1,4 +1,5 @@
 git is a distributed version control 
 git is free software on gpl and this ?
 I don't know what is a stage
-this is a test of conflict branch
+is is fa testof conflict branch
+vi is a bullshit editor 
