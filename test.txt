@@ -1,0 +1,1 @@
+this is used to test that whether there will be conflict when adds a new file
