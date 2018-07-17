@@ -5,3 +5,6 @@ I don't know what is a stage
 this is a test of conflict branch
 fuck vi!:
 vi is a bullshit editor 
+this is used to test master? Sorry please give me a moment, I just cannot remember it 
+oh it's to test ff mode
+goodbye
